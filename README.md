@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MRIDUL RAJ SINGH</h1>
-<h3 align="center">A passionate ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING ENTHUSIAST FROM INDIA</h3>
+<h3 align="center">A PASSIONATE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING ENTHUSIAST FROM INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="mrsinghhh" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PNEUMONIA DETECTION AI MODEL**
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **SCI KIT LEARN**
 
 - 🤝 I’m looking for help with **PNEUMONIA DETECTION AI MODEL**
 
